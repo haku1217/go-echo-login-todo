@@ -4,8 +4,9 @@ import (
 	"net/http"
 	"strconv"
 
+	"go-echo-login-todo/model"
+
 	"github.com/labstack/echo"
-	"github.com/x-color/simple-webapp/model"
 )
 
 func AddTodo(c echo.Context) error {
