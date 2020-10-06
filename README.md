@@ -1,5 +1,5 @@
 # go-echo-login-todo
 
-```go
+```bash
 go run main.go router.go
-``
+```
